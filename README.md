@@ -16,8 +16,7 @@
     const interests = [
         'environment',
         'visual aesthetics',
-        'machine learning',
-        'blockchain'
+        'accessibility',
     ]
     console.log(`${this.name}: I'd love to learn about ${interests}.`);
   }
