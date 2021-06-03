@@ -40,9 +40,6 @@ const soyoung = new WhoAmI('soyoung');
 
 
 ## Connect with me
-<p align="left">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cookr341@gmail.com)](mailto:cookr341@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soyoungjo/)]
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soyoungjo/)](https://www.linkedin.com/in/soyoungjo/)
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/cookr3)](https://blog.naver.com/cookr3)
-
-</p>
