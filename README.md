@@ -1,5 +1,5 @@
 <h1 align="center">Soyoung Jo / 조소영</h1>
-<h4 align="center">An optimistic frontend developer who believes a few lines of codes can build the better world :earth_asia:✨ </h4>
+<h4 align="center">An optimistic frontend developer who believes a few lines of codes can make the world better :earth_asia:✨ </h4>
 
 ## Who am I?
  ```javascript
