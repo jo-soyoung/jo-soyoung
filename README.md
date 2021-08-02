@@ -1,8 +1,8 @@
 <h2 align="center">Soyoung Jo / 조소영</h2>
 <h4 align="center">An optimistic frontend developer who believes a few lines of codes can make the world better 🌏✨ </h4>
 <br/>
-<p align="center">🌱: JavaScript, React JS, etc.<p/>
-<p align="center">🔭: TypeScript, React Native <p/>
+<p align="center">🌱: JavaScript, Vue, React <p/>
+<p align="center">🔭: TypeScript, D3.js <p/>
 <p align="center">💚: 🌊🌴👩‍🍳🎥🐈🐾📷🎨<p/>
 
 <br/>
