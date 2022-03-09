@@ -3,7 +3,7 @@
 <br/>
 <p align="center">🌱: Vue / TypeScript <p/>
 <p align="center">🔭: User Interaction / Accessibility <p/>
-<p align="center">💚: 🌊🌴👩‍🍳🎥🐈🐾📷🎨<p/>
+<p align="center">💚: 🌊🌴👩‍🍳🎥🐈🐾📷🎨:tea:<p/>
 
 <br/>
 <div align="center">
